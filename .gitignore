@@ -1,0 +1,61 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python testing
+.pytest_cache/
+.coverage
+
+# Notebook exports
+*.html
+
+# Large model files (if added later)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Anaconda
+.conda/
+conda-meta/
+
+# Local datasets (optional)
+# Uncomment if dataset should not be uploaded
+# data/
+# *.csv
